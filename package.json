@@ -1,0 +1,25 @@
+{
+  "name": "cypress-rundown",
+  "version": "1.0.0",
+  "description": "Providing statistics on tests running in Cypress and making testing experience better and more convenient",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "tests",
+    "e2e",
+    "components",
+    "js",
+    "ts"
+  ],
+  "author": "Vladyslav Nosal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-notifier": "^8.0.5",
+    "cypress": "^13.8.1",
+    "node-notifier": "^10.0.1",
+    "typescript": "^5.4.5"
+  }
+}
